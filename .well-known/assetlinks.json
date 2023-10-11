@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.androidapplinkstest",
+    "package_name": "com.sadapay.app.dev",
     "sha256_cert_fingerprints":
-    ["5B:6C:5B:32:51:62:58:59:C3:D3:64:84:EB:57:24:19:38:41:3A:61:2A:A8:68:7C:E2:49:DB:8C:37:E0:D6:AB"]
+    ["4D:B7:7D:53:DC:A0:9B:6B:C6:72:4F:C9:3D:CF:27:4F:13:48:29:A2:CC:47:22:99:4D:C1:7D:57:B1:0D:7F:FB"]
   }
 }]
